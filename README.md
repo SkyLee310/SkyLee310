@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sky Lee</h1>
-<h3 align="center">A passionate AI Researcher from Malaysia 🇲🇾</h3>
+<h3 align="center">A passionate AI Researcher and developer from Malaysia 🇲🇾</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skylee310&label=Profile%20views&color=0e75b6&style=flat" alt="skylee310" /> </p>
 
 - 🔭 I’m currently studying at **UNIVERSITI TEKNOLOGI MALAYSIA**
 
-- 🌱 I’m currently learning **Optimization Algorithms. Welcome to communicate!**
+- 🌱 I’m currently learning **Optimization Algorithms and exploring Frontier AI model. Welcome to communicate!**
 
-- 👯 I’m looking to collaborate on **everyone! Welcome any passionate developer!**
+- 👯 I’m looking to collaborate on **everyone! Welcome any passionate developer and researcher!**
 
-- 🤝 I’m looking for help with **Professional AI Engineer/ Data Engineer/ Algorithms Engineer**
+- 🤝 I’m looking for help with **Professional AI Engineer/ Data Engineer/ Algorithms Engineer/ AI Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SkyLee310?tab=repositories](https://github.com/SkyLee310?tab=repositories)
 
